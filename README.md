@@ -36,7 +36,6 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 &nbsp;
 
 
-Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution" - John Ruskin.
 
 <!--
 
