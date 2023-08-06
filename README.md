@@ -9,6 +9,10 @@
   
  <img alt="No alt text provided for this image" data-media-urn="" data-li-src="https://media.licdn.com/dms/image/C5612AQEVwjrAB20v-w/article-inline_image-shrink_1500_2232/0/1581425157402?e=1696464000&amp;v=beta&amp;t=VCdl24f1GL-s_t4Yh0tUxgIZr4Bvwo6strMD567BT24" src="https://media.licdn.com/dms/image/C5612AQEVwjrAB20v-w/article-inline_image-shrink_1500_2232/0/1581425157402?e=1696464000&amp;v=beta&amp;t=VCdl24f1GL-s_t4Yh0tUxgIZr4Bvwo6strMD567BT24">
 
+
+ ##### Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution" - John Ruskin.
+
+
 ## :hammer_and_wrench: Languages and Tools I use :
   <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
@@ -30,6 +34,9 @@ HTML <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html
 Allure <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />  
 &nbsp;
+
+
+Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution" - John Ruskin.
 
 <!--
 
