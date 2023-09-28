@@ -25,9 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="55"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp;   Python <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1098px; width: 849px; height: 417px; margin: 0px;" alt="Issue47 - How Much QA Is Too Much QA?" jsname="kn3ccd">
+ 
 <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Postman <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
+   <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1098px; width: 849px; height: 417px; margin: 0px;" alt="Issue47 - How Much QA Is Too Much QA?" jsname="kn3ccd">
 JavaScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Git <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 HTML <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
