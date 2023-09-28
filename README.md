@@ -9,7 +9,7 @@
  
  
 
- > ##### Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution" - John Ruskin.
+ > ### Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution" - John Ruskin.
 
 
 ## :hammer_and_wrench: Languages and Tools I use :
