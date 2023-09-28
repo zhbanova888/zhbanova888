@@ -6,7 +6,8 @@
 #### My LinkedIn profile:<div id="badges">
 <a href="https://www.linkedin.com/in/zhbanova888/"> 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
+ <img src="https://images.pond5.com/quality-assurance-animated-word-cloud-footage-072157928_prevstill.jpeg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 3840px; width: 850px; height: 478px; margin: 0px;" alt="Quality assurance animated word cloud, t... | Stock Video | Pond5" jsname="kn3ccd" aria-hidden="false">
+ 
  
 
  > ##### Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution" - John Ruskin.
@@ -35,8 +36,6 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 &nbsp;
 
 <!--
-
-<img src="https://images.pond5.com/quality-assurance-animated-word-cloud-footage-072157928_prevstill.jpeg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 3840px; width: 850px; height: 478px; margin: 0px;" alt="Quality assurance animated word cloud, t... | Stock Video | Pond5" jsname="kn3ccd" aria-hidden="false">
 
 
 **zhbanova888/zhbanova888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
