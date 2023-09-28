@@ -7,8 +7,7 @@
 <a href="https://www.linkedin.com/in/zhbanova888/"> 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
- <img alt="No alt text provided for this image" data-media-urn="" data-li-src="https://media.licdn.com/dms/image/C5612AQEVwjrAB20v-w/article-inline_image-shrink_1500_2232/0/1581425157402?e=1696464000&amp;v=beta&amp;t=VCdl24f1GL-s_t4Yh0tUxgIZr4Bvwo6strMD567BT24" src="https://media.licdn.com/dms/image/C5612AQEVwjrAB20v-w/article-inline_image-shrink_1500_2232/0/1581425157402?e=1696464000&amp;v=beta&amp;t=VCdl24f1GL-s_t4Yh0tUxgIZr4Bvwo6strMD567BT24">
-
+ 
 
  > ##### Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution" - John Ruskin.
 
