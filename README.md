@@ -34,9 +34,9 @@ Allure <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" widt
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />  
 &nbsp;
 
-<img src="https://www.customoshasafetymanual.com/media/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/q/u/quality_insurance.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 600px; height: 490px; margin: 0px; width: 490px;" alt="Quality Assurance And Quality Control" jsname="kn3ccd" aria-hidden="false">
-<!--
 
+<!--
+<img src="https://www.customoshasafetymanual.com/media/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/q/u/quality_insurance.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 600px; height: 490px; margin: 0px; width: 490px;" alt="Quality Assurance And Quality Control" jsname="kn3ccd" aria-hidden="false">
 
 **zhbanova888/zhbanova888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
